@@ -30,3 +30,15 @@ This project has the following steps.
 
 ## Dataset
 You can download the data from the [kaggle website](https://www.kaggle.com/datasets/nih-chest-xrays/data) and run it locally
+
+## Files
+
+This project contains:
+
+- EDA.ipynb: This is the file I did perform the EDA.
+- Build and train model.ipynb: This is the file I did build and train the DL model.
+- Inference.ipynb: This is the file you I did perform clinical workflow integration.
+- *.dcm files: They are the test files to test the clinical workflow integration.
+- sample_labels.csv: This is the file that should be used to assess images in the pixel-level.
+- FDA_Submission_Template.md: This is the template that I did perform the FDA submission. 
+
